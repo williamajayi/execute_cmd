@@ -1,7 +1,7 @@
 # execute_cmd
 Simple program to steal and email WiFi passwords saved on a Windows system to an attacker.
 
-It uses Gmail as a default SMTP Server, therefore, it requires you to have a gmail account.
+It uses Gmail as a default SMTP Server, therefore, it requires a gmail account.
 
 Requirements:
 
